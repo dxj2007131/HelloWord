@@ -1,2 +1,8 @@
 # HelloWord
-1
+
+public class Helloword{
+public static void main(){
+System.out.println("Helloword")
+}
+
+}
